@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ```bash
 python ./chatgui.py
 ```
-即可运行 gui
+即可运行 gui  
+输入待翻译的文本和选用的prompt_id(可以不输，默认为第0个)，按回车键，会将apply prompt之后的内容复制到剪贴板，即可复制到chatgpt。
 
 ![](./demo.png)
