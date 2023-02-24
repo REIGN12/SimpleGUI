@@ -1,6 +1,6 @@
 请将下文翻译成中文，其中latex的格式保持不变，注释内也应当翻译，并全部uncomment：
 {}
-请开始翻译，并注意 Mask Image Modeling->掩码图像建模，token->词例，pose estimation->位姿估计，transfer->迁移：
+请开始翻译，并注意 Mask Image Modeling->掩码图像建模，token->词例，pose estimation->位姿估计，transfer->迁移，epoch->轮数：
 
 
 请将下文翻译成中文，其中latex的citation格式保持不变，并将注释内容转为正文：
