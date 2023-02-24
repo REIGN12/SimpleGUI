@@ -10,3 +10,5 @@ pip install -r requirements.txt
 python ./chatgui.py
 ```
 即可运行 gui
+
+![](./demo.png)
