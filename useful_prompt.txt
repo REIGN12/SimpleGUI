@@ -1,4 +1,4 @@
-请将下文翻译成中文，其中latex的格式保持不变，注释全部uncommented：
+请将下文翻译成中文，其中latex的注释uncommented，其他格式保持不变：
 {}
 请开始翻译，并注意 Mask Image Modeling->掩码图像建模，token->词例，pose estimation->位姿估计，transfer->迁移，epoch->轮数：
 
